@@ -3415,6 +3415,10 @@ body.light-mode .coverflow-dim-overlay {
         gap: 3rem;
     }
     
+    .footer {
+        padding: 2.5rem 0 6.5rem 0;
+    }
+
     .footer-container {
         flex-direction: column;
         gap: 1.5rem;
